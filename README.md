@@ -1,17 +1,3 @@
-NOTICE:
-
-THIS PLUGIN WAS MOVED TO :
-
-https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
-
-お知らせ
-
-本プラグインは
-
-https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
-
-に移動することになりました．上記のレポジトリでもこのレポジトリでもissuesとpull-requestは受け付けます．
-
 ###About PhoneGapIntelliJPlugin
 
 IntelliJ Platform Plugin for PhoneGap/Cordova Application
