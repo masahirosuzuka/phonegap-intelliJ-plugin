@@ -1,4 +1,11 @@
-###About PhoneGapIntelliJPlugin
+This repository is clone of 
+https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
+
+このレポジトリは
+https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
+のクローンです．引き続きこのレポジトリでもバグ報告，新機能リクエスト等は受けつけます．
+
+###About PhoneGap/Cordova plugin for IntelliJ
 
 IntelliJ Platform Plugin for PhoneGap/Cordova Application
 
