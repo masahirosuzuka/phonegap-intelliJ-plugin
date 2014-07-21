@@ -3,7 +3,9 @@ https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
 
 このレポジトリは
 https://github.com/JetBrains/intellij-plugins/tree/master/phoneGap
-のクローンです．引き続きこのレポジトリでもバグ報告，新機能リクエスト等は受けつけます．
+のクローンになりました．引き続きこのレポジトリでもバグ報告，新機能リクエスト等は受けつけます．
+上記レポジトリのほうがバグ対応等は早いかもしれません．
+よろしくお願いします．
 
 ###About PhoneGap/Cordova plugin for IntelliJ
 
