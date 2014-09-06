@@ -48,8 +48,8 @@ $phonegap create hellophonegap
 
 if you use cordova
 
-$cordova add platform android
-$cordova add platform ios
+$cordova platform add android
+$cordova platform add ios
 
 ####(4)Import PhoneGap Project
 File -> Import Project -> PhoneGap Project root dir -> Import form external model -> PhoneGap -> Finish
