@@ -4,6 +4,11 @@ var path = require('path');
 var fs = require('fs');
 
 http.createServer(function(req, res) {
+    if (path.normalize(decodeURI(url.parse(req.url).pathname)) !== decodeURI(url.parse(req.url).pathname)) {
+        res.statusCode = 403;
+        res.end();
+        return;
+    }
   var webroot = 'www';
   var uri = webroot + url.parse(req.url).pathname;
   var fileName = path.join(process.cwd(), uri);
